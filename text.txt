@@ -4,3 +4,4 @@ new line added there
 
 line added from master
 
+one more line from master
