@@ -1,3 +1,6 @@
 adada
 
 new line added there
+
+line added from master
+
